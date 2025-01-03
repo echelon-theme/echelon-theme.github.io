@@ -1,7 +1,9 @@
 {
-  "testSnippet": {
-    "name": "Test Snippet",
-    "image": "https://echelon-theme.github.io/assets/images/favicon.png",
-    "text": "HELPPPPPPPPPP"
-  }
+  "snippets": [
+    { 
+      "id": "testSnippet",
+      "image": "https://echelon-theme.github.io/assets/images/favicon.png",
+      "text": "HELPPPPPPPPPP"
+    }
+  ]
 }
