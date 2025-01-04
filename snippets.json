@@ -1,6 +1,12 @@
 {
   "snippets": [
     { 
+      "id": "echelon-rewrite",
+      "image": "https://echelon-theme.github.io/snippets/echelon-beta.png",
+      "text": "This rewrite of Echelon is a work in progress. Features may change and might not be fully functional. <a>Please share any issues to help us improve Echelon</a>!",
+      "link": "https://github.com/echelon-theme/echelon/issues/new/"
+    },
+    { 
       "id": "vaporis-yt",
       "image": "https://echelon-theme.github.io/snippets/v3.png",
       "text": "Do you want more of the &quot;better Internet&quot;? Try out V3 — a fast and responsive alternative YouTube frontend, <a>bringing back the beauty of the old YouTube layout</a>.",
